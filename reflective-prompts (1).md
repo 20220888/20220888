@@ -57,13 +57,23 @@ Never had a fight with technology only have a feeling of awe about the speed it 
 
 ### What is an IDE?
 
+Just found out what IDE is. An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI).
+
 ### What did you learn out of the Marshmallow Challenge?
+
+A team building exercise making use of marshmallow and spagetti to make the tallest building of it with marshamallow sitting on top.
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
+Sad to say I did not participate in it was at home sick
+
 ### So far, what was the hardest moment of this course for you?
 
+brains do not co-operate in coding. 
+
 ### What is OOP?
+
+
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
