@@ -117,13 +117,19 @@ up till now only python it is to me the simplest to learn for me. I cannot proce
 
 ### What is something kind that someone has done for you?
 
-
+could not remember specifically. police lett me off for an infringement of traffic rules in Greytown
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
+It is very interesting field to go into and very rewarding if you make it. if you do not want to commint yourself fully to it then do not enter, it is a brutal field to go into.
+
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
+It is not the course .it is myself.
+
 ### What is a fixed mindset?
+
+brain dead to me.
 
 ### What is something kind you have done for someone else?
 
