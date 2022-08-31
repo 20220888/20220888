@@ -15,18 +15,33 @@ I am proud I am able to tell the computer to do what I ask of it,however I am ve
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
+I do not have strategy for learning. There are things that I can understand immediately and things that I am not able to get around my brain to understand it.
+Anyways I will be slowly get the hang of it.
 
-### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+
+### If you could send a time traveling text message back to yourself at the start of this course, what would it say? 
+
+Do it even if you know it is very hard to comprehend even if I do not know anything abut software. You will know eventually, maybe not withing this 6 month but give you a life long knowledge.
 
 ### What is Python?
 
+A programming language, whereby programmer write their software.
+
 ### Have you developed a habit of exploring?
 
-### Have you meditated before?
+Not at the moment. too much thing to do with kids and work and family.
+
+### Have you meditated before? 
+
+not really
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
+I do have a certain aspect of myself that do quite well in practical stuff.
+
 ### Do you consider yourself a developer yet?
+
+no yet, probably never will unless developing means a pencil pusher
 
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
