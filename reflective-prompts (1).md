@@ -73,15 +73,25 @@ brains do not co-operate in coding.
 
 ### What is OOP?
 
-
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
+The four principles of object-oriented programming are encapsulation, abstraction, inheritance, and polymorphism.What is OOP example?
+As an example, let's look at a Vehicle object. We can use this object to create other objects like a Car, a Truck or a Motorcycle. If the Vehicle has a Start method, it may be implemented by each child object differently. Polymorphism enables each person to implement the Start method differently. 
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
+I use it but not often. Very useful not tedious although can be better. be that as it may all program can be made better.
+
 ### Which parts of the work did you find tedious?
+
+All the work given is not tedious if I know how to go about it. 
 
 ### What is polymorphism?
 
-### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
+A person that have many different characteristic. like a a judge in court, who is also a father of his child.
+
+### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?  
+
+Partly I do belive  it. but still I am finding my way to get over it....
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 
@@ -89,15 +99,25 @@ brains do not co-operate in coding.
 
 ### What is pair programming?
 
+2 person doing the same program in 1 computer. 2 brains is better than one. 
+
 ### What are you looking forward to learning about programming?
+
+to tell the computer what to do, also be able to understand why some program behaves the way it does.
 
 ### What is conscious listening?
 
 ### What is a variable?
 
-### What programming languages are you interested in learning? Why?
+variable is things are not fixed
+
+### What programming languages are you interested in learning? Why? 
+
+up till now only python it is to me the simplest to learn for me. I cannot process other language.
 
 ### What is something kind that someone has done for you?
+
+
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
