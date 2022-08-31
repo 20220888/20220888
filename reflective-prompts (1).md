@@ -45,9 +45,15 @@ no yet, probably never will unless developing means a pencil pusher
 
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
+I do value creativy ,especially with a group of people. tools like brainstorming, using fishbone technics and recently Agile approach.
+
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
+2 tabs usual;ly I do a few tab only, although computer as quite competent in multi tasking it slows the computer somehow. not for me.
+
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+
+Never had a fight with technology only have a feeling of awe about the speed it moves forward. hardly can keep up
 
 ### What is an IDE?
 
