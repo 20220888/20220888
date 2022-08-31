@@ -1,10 +1,17 @@
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+Yes I did, but usually breaks are longer and screen time is longer.
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
+Timeboxing is allotting a fixed, maximum unit of time for an activity. That unit of time is called a time box. The goal of timeboxing is to define and limit the amount of time dedicated to an activity. Scrum uses timeboxing for all of the Scrum events and as a tool for concretely defining open-ended or ambiguous tasks. I may have inadvertently use time boxing when I am working, I use to time myself for a days work by timing each place I go and spend so that I can return to office by a certain time.
+
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
+Not very confident, Software development is new to me. I am slowly getting the hang of it, but still in the infancy.
+
 ### What are of you proud of up to this point in the course?
+
+I am proud I am able to tell the computer to do what I ask of it,however I am very dissappointed in my ownself with my slow learning of coding language.
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
