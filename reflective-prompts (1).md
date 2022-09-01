@@ -129,14 +129,32 @@ It is not the course .it is myself.
 
 ### What is a fixed mindset?
 
-brain dead to me.
+it mean literally not flexible.
 
 ### What is something kind you have done for someone else?
 
+I help a man getting his Discharge as a bankrupt
+
 ### Have you done mindfulness or attention training before?
+
+no 
 
 ### Have you developed a habit of persevering?
 
+not really but will try
+
+
+MY PSEUDO CODE
+
+""" I would like to calculate how much gold is needed to plate a certain surface area.
+
+""" "so here it goes" Please choose the shape of your parts "square or round"
+
+print x (input the length of the parts) print y (input the width of the parts) print z (input the height of the parts)
+
+elif square calculate square = 2(x + y + z)
+
+Print square
 
 
 
