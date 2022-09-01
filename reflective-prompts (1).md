@@ -95,7 +95,11 @@ Partly I do belive  it. but still I am finding my way to get over it....
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 
+I think you could create a scratch program to tell the children what MVP is as it is interactive with cartoon characters.
+
 ### What is the hardest problem you have solved so far?
+
+Cannot remember
 
 ### What is pair programming?
 
@@ -106,6 +110,8 @@ Partly I do belive  it. but still I am finding my way to get over it....
 to tell the computer what to do, also be able to understand why some program behaves the way it does.
 
 ### What is conscious listening?
+
+Conscious listening is actively participating in the acttivity. the brain is processing all the nitty gritty of an action. unlike unconscious where the brain is not really telling the body to do something. example the action of putting food in our mouth, happens instantaneously without thinking food in the mouth.
 
 ### What is a variable?
 
